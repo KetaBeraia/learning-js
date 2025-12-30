@@ -15,6 +15,10 @@ Guess a random number between 1-100 with feedback on each attempt.
 - [v1-basic.js](./projects/random-n-guesser/v1-basic.js) - Basic working version
 - [v2-validated.js](./projects/random-n-guesser/v2-validated.js) - Added input validation
 
+### Air Quality Index (AQI) Checker
+Categorizes air quality based on AQI value input.
+- [v1-basic.js](./projects/AIQ/v1-basic.js) - Basic AQI categorization
+- [v2-final.js](./projects/AIQ/v2-final.js) - With input validation
 
 ## Notes
 - [JavaScript Basics](./notes/javascript-basics.md)
