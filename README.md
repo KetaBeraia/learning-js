@@ -20,6 +20,12 @@ Categorizes air quality based on AQI value input.
 - [v1-basic.js](./projects/AIQ/v1-basic.js) - Basic AQI categorization
 - [v2-final.js](./projects/AIQ/v2-final.js) - With input validation
 
+### Rock Paper Scissors
+Play rock-paper-scissors against the computer.
+- [v1-basic.js](./projects/RPS/v1-basic.js) - Basic game with number input
+- [v2-final.js](./projects/RPS/v2-final.js) - Accepts text input with validation
+- [v3-final.js](./projects/RPS/v3-final.js) - Multiple input formats supported
+
 ## Notes
 - [JavaScript Basics](./notes/javascript-basics.md)
 =======
